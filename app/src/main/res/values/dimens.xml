@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="view_margin">2dp</dimen>
+    <dimen name="button_margin">5dp</dimen>
+    <dimen name="size_huge">26sp</dimen>
+    <dimen name="size_large">22sp</dimen>
+    <dimen name="size_medium">18sp</dimen>
+    <dimen name="size_small">14sp</dimen>
+</resources>

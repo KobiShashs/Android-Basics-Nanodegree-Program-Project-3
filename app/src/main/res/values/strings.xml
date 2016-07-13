@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="header">Are you ready?</string>
+    <string name="question_1_header">question 1</string>
+    <string name="question_2_header">question 2</string>
+    <string name="question_3_header">question 3</string>
+    <string name="question_4_header">question 4</string>
+    <string name="question_5_header">question 5</string>
+    <string name="question_6_header">question 6</string>
+    <string name="question_7_header">question 7</string>
+    <string name="question_8_header">question 8</string>
+    <string name="question_9_header">question 9</string>
+    <string name="question_10_header">question 10</string>
+    <string name="question_1_question">What is Your name?</string>
+    <string name="question_2_question">who was you favorite team?</string>
+    <string name="question_3_question">What is your Gender?</string>
+    <string name="question_4_question">Who is greater?</string>
+    <string name="question_5_question">Do you like sports?</string>
+    <string name="question_6_question">Did you watch Euro 2016?</string>
+    <string name="question_7_question">How many games your have watched?</string>
+    <string name="question_8_question">The violent audience?</string>
+    <string name="question_9_question">Please check your favorite place to have EURO 2028?</string>
+    <string name="question_10_question">What is an excellent player for you? </string>
+    <string name="question_1_hint">Fill in your name</string>
+    <string name="question_2_hint">Fill in your team</string>
+    <string name="question_3_option_1">Male</string>
+    <string name="question_3_option_2">Female</string>
+    <string name="question_3_option_3">Other</string>
+    <string name="question_4_option_1">French</string>
+    <string name="question_4_option_2">Portugal</string>
+    <string name="question_4_option_3">Other</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question_7_option_1">0&#8211;2</string>
+    <string name="question_7_option_2">3&#8211;5</string>
+    <string name="question_7_option_3">6 or more</string>
+    <string name="question_8_option_1">England</string>
+    <string name="question_8_option_2">Russia</string>
+    <string name="question_8_option_3">French</string>
+    <string name="question_9_option_1">England</string>
+    <string name="question_9_option_2">Portugal</string>
+    <string name="question_9_option_3">Poland</string>
+    <string name="question_9_option_4">Croatia</string>
+    <string name="question_10_option_1">Talent</string>
+    <string name="question_10_option_2">Skills</string>
+    <string name="question_10_option_3">Luck!</string>
+    <string name="submit_button">Submit</string>
+    <string name="bad_answer" formatted="false">Your score is #%d</string>
+    <string name="good_answer" formatted="false">WooHoo, Well Done %1$s</string>
+
+
+</resources>
