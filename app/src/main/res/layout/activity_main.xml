@@ -3,7 +3,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
@@ -39,7 +38,7 @@
             <TextView
                 android:id="@+id/text_view_question_1_caption"
                 style="@style/TextViewStyleQuestionHeader"
-                android:text="@string/question_1_header" />
+                android:text="@string/name" />
 
             <TextView
                 android:id="@+id/text_view_question_1_body"
@@ -54,7 +53,7 @@
             <TextView
                 android:id="@+id/text_view_question_2_caption"
                 style="@style/TextViewStyleQuestionHeader"
-                android:text="@string/question_2_header" />
+                android:text="@string/team" />
 
             <TextView
                 android:id="@+id/text_view_question_2_body"
@@ -155,12 +154,12 @@
                 <RadioButton
                     android:id="@+id/radio_group_question_5_answer_1"
                     style="@style/RadioButtonStyle"
-                    android:text="@string/yes" />
+                    android:text="@string/question_5_option_1" />
 
                 <RadioButton
                     android:id="@+id/radio_group_question_5_answer_2"
                     style="@style/RadioButtonStyle"
-                    android:text="@string/no" />
+                    android:text="@string/question_5_option_2" />
             </RadioGroup>
 
             <TextView
@@ -181,12 +180,12 @@
                 <RadioButton
                     android:id="@+id/radio_group_question_6_answer_1"
                     style="@style/RadioButtonStyle"
-                    android:text="@string/yes" />
+                    android:text="@string/question_6_option_1" />
 
                 <RadioButton
                     android:id="@+id/radio_group_question_6_answer_2"
                     style="@style/RadioButtonStyle"
-                    android:text="@string/no" />
+                    android:text="@string/question_6_option_2" />
             </RadioGroup>
 
             <TextView

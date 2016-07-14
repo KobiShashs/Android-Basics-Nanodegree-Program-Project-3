@@ -50,7 +50,7 @@
         <item name="android:color">@color/colorPrimary</item>
     </style>
 
-    <style name="CheckBoxStyle" parent="CheckBoxStyle">
+    <style name="CheckBoxStyle" parent="Base.Widget.AppCompat.CompoundButton.CheckBox">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textSize">@dimen/size_medium</item>
